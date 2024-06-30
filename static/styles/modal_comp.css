@@ -1,0 +1,33 @@
+#modalDetailsContent {
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+#modalDetailsHeader {
+  background-color: #0056b3;
+  color: #fff;
+  border-bottom: none;
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+}
+
+#modalDetailsHeader .btn-close {
+  color: #fff;
+}
+
+#modalDetailsBody {
+  padding: 2rem;
+}
+
+#modalDetailsFooter {
+  padding: 1rem 2rem;
+  background-color: #f8f9fa;
+  border-top: none;
+  border-bottom-left-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
+}
+
+.modal-lg {
+  max-width: 80%;
+}
+
